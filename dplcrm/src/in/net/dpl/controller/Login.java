@@ -12,7 +12,7 @@ import org.springframework.web.servlet.ModelAndView;
 	
 	public class Login{
 		
-				
+		// a comment is added for test in git hub		
 		@RequestMapping(value="/tariffUploadLogin.dpl",method = RequestMethod.GET)
 		public ModelAndView tariffindex(){
 	 
